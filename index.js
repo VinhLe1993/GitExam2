@@ -13,4 +13,5 @@ function Feture2 () {
 
 function done () {
     console.log (f_done);
+    console.log (done_All);
 }
