@@ -4,4 +4,5 @@ function master () {
 
 function Feture1 () {
     console.log ('f1');
+    console.log (done_f1);
 }
